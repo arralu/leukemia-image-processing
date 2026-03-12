@@ -50,9 +50,6 @@ This project focuses on microscopic blood smear images and applies image process
 ![Closing](closing.png)
 ![Closing Examples](closing-examples.png)
 
-### Feature Extraction
-![Final Features](final_features.png)
-
 ---
 
 ## Observations and Conclusions
@@ -81,4 +78,5 @@ This project focuses on microscopic blood smear images and applies image process
   - slicing-examples.png
   - closing.png
   - closing-examples.png
+
   - final_features.png
